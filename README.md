@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ux ui designing
 - 💞️ I’m looking to collaborate on ux ui design
 - 📫 How to reach me connme.ea@gmail.com
-- fb This is my facebook: https://web.facebook.com/Arafat.Friendly
 
 <!---
 47xDesigning/47xDesigning is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
